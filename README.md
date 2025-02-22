@@ -21,7 +21,7 @@ A simple **Task Manager** built using **HTML, CSS, and JavaScript**. This projec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/aniket-manhas-git/task-manager.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -45,12 +45,12 @@ A simple **Task Manager** built using **HTML, CSS, and JavaScript**. This projec
 
 ## 🔗 Live Demo
 
-[Live Demo Here](your-demo-link-here)
+[Live Demo Here](https://aniket-manhas-git.github.io/task-manager/)
 
 
 ## 📩 Contact
 
-If you have any questions or suggestions, feel free to connect with me on **LinkedIn** or reach out via **email**.
+If you have any questions or suggestions, feel free to connect with me on **[LinkedIn](www.linkedin.com/in/aniket-manhas)** or reach out via **[email](aniketmanhas801@gmail.com)**.
 
 ---
 
