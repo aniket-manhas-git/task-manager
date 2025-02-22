@@ -50,7 +50,7 @@ A simple **Task Manager** built using **HTML, CSS, and JavaScript**. This projec
 
 ## 📩 Contact
 
-If you have any questions or suggestions, feel free to connect with me on **[LinkedIn](www.linkedin.com/in/aniket-manhas)** or reach out via **[email](aniketmanhas801@gmail.com)**.
+If you have any questions or suggestions, feel free to connect with me on **aniketmanhas801@gmail.com**.
 
 ---
 
